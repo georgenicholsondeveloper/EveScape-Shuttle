@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MedicBay
+  - Lights
+  - Key4
+  - otherTerminalText
+  - PowerPlug
+  - Key9
+  - CanType
+  - mLights
+  - Key1
+  - PowerCord
+  - Terminal
+  - Key3
+  - Key2
+  - Key8
+  - firstRoom
+  - CancelButton
+  - EnterButton
+  - generatorRoom
+  - Key6
+  - Key5
+  - Key0
+  - Key7
+  - Occupied
+  - GasMask
+  - Ladder
+  - CrowBar
+  - Drugg
+  - Druggy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
